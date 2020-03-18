@@ -1,6 +1,7 @@
 // # Find the largest prime factor of any number.
 
 package Project_Euler_Java;
+
 import java.util.Scanner;
 
 public class largest_prime_factor 
