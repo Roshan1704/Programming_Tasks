@@ -26,7 +26,7 @@ public class reverse_String {
 		}
 		else
 		{
-			char ch[] = new char[name.length()]; 
+			char ch[] = new char[len]; 
 			for(int j=len-1;j>=0;j--)
 			{
 				ch[k]= name.charAt(j);
